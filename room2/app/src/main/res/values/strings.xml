@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">room 2</string>
+    <string name="title_activity_edit_text_activity">edit_text_activity</string>
+    <string name="number_one">unknown</string>
+    <string name="number_two">male</string>
+    <string name="number_three">female</string>
+        <string-array name="planets_array">
+            <item>unknown</item>
+            <item>male</item>
+            <item>female</item>
+        </string-array>
+
+</resources>
